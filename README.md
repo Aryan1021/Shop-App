@@ -1,20 +1,2 @@
-<<<<<<< HEAD
-# shop_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Shop-App
->>>>>>> 61503057de02246d290b46b13d7a6cc8a8ce3e88
+This is a one stop solution for buying any sort of shoes you want.
