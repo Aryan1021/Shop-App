@@ -7,13 +7,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// Provider - Read only value (It checks only for the nearest widget).
-// ChangeNotifierProvider - Change the value and notify the widgets that are
-//                          listening to it about those changes .
-// FutureProvider - It can listen futures,subscribe to them and show the changes.
-// StreamProvider - It basically provide the stream.
-// Future and Stream provider are useful because provider helps in lazy loading.
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
